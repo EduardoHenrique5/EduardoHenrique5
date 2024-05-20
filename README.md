@@ -1,6 +1,6 @@
 ### Oi, tudo bem? :raising_hand:
 
-Sou o Eduardo Henrique, e atualmente sou um estudante do <a href= "https://rodolfomori.com/devclub/">DevClub</a> em ação e estou criando projetos com: 
+Sou o Eduardo Henrique, e atualmente sou um estudante do <a href= "https://aulas.devclub.com.br/login/">DevClub</a> em ação e estou criando projetos com: 
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
   - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo" />
